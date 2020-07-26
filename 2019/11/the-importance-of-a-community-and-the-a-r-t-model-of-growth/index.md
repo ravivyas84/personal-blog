@@ -6,7 +6,7 @@ categories:
   - Entrepreneurship 
   - Growth 
 tags: 
-  - posts
+  - post
 layout: layouts/posts.njk
 enclosure:
 coverImage: "perry-grone-lblgffladry-unsplash.jpg"

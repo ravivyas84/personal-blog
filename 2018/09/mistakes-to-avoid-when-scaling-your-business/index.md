@@ -5,7 +5,7 @@ categories:
   - Entrepreneurship 
   - Learnings 
 tags: 
-  - posts
+  - post
 layout: layouts/posts.njk
 enclosure:
 coverImage: "neonbrand-395901-unsplash.jpg"

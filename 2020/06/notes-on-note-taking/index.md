@@ -4,7 +4,7 @@ date: 2020-06-22
 categories: 
   - Productivity
 tags: 
-  - posts
+  - post
 layout: layouts/posts.njk
 enclosure:
 coverImage: "lucrezia-carnelos-asm4t46tqcu-unsplash-1.jpg"

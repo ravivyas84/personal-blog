@@ -4,7 +4,7 @@ date: 2018-12-18
 categories: 
   - Growth 
 tags: 
-  - posts
+  - post
   - Engagement 
   - Games 
   - Tactics 

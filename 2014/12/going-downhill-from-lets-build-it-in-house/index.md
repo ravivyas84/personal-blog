@@ -4,7 +4,7 @@ date: 2014-12-06
 categories: 
 
 tags: 
-  - posts
+  - post
 layout: layouts/posts.njk
 enclosure:
 ---

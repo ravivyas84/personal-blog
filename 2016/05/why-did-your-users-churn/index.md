@@ -4,7 +4,7 @@ date: 2016-05-29
 categories: 
   - Growth 
 tags: 
-  - posts
+  - post
 layout: layouts/posts.njk
 enclosure:
 ---

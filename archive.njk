@@ -8,5 +8,8 @@ eleventyNavigation:
 
 <h1>Archive</h1>
 
-{% set postslist = collections.posts %}
-{% include "postslist.njk" %}
+<ul>
+{%- for post in collections.post -%}
+  <li><a href="{{ post.url | url }}" > {{ post.data.title }} </a></li>
+{%- endfor -%}
+</ul>

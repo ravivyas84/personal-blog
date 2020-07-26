@@ -5,7 +5,7 @@ categories:
   - Product Management 
   - User Experience 
 tags: 
-  - posts
+  - post
 layout: layouts/posts.njk
 enclosure:
 ---

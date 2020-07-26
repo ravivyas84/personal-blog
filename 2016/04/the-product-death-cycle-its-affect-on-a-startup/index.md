@@ -5,7 +5,7 @@ categories:
   - Entrepreneurship 
   - Product Management 
 tags: 
-  - posts
+  - post
 layout: layouts/posts.njk
 enclosure:
 ---

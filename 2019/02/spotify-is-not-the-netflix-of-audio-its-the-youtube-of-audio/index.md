@@ -4,7 +4,7 @@ date: 2019-02-06
 categories: 
   - Strategy 
 tags: 
-  - posts
+  - post
   - podcasts
   - Spotify 
 layout: layouts/posts.njk

@@ -3,7 +3,7 @@ title: Hey.com, the Craft of Simplicity and Opinions
 date: 2020-06-18
 categories: 
 tags: 
-  - posts
+  - post
 layout: layouts/posts.njk
 enclosure:
 ---

@@ -6,7 +6,7 @@ categories:
   - Growth 
   - Strategy 
 tags: 
-  - posts
+  - post
 layout: layouts/posts.njk
 enclosure:
 coverImage: "rawpixel-626041-unsplash.jpg"

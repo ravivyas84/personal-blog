@@ -4,7 +4,7 @@ date: 2020-04-22
 categories: 
   - SEO
 tags: 
-  - posts
+  - post
 layout: layouts/posts.njk
 enclosure:
 ---

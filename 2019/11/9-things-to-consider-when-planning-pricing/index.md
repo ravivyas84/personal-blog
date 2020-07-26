@@ -4,7 +4,7 @@ date: 2019-11-25
 categories: 
   - Entrepreneurship 
 tags: 
-  - posts
+  - post
   - Pricing
 layout: layouts/posts.njk
 enclosure:

@@ -4,7 +4,7 @@ date: 2018-10-26
 categories: 
   - Product Management 
 tags: 
-  - posts
+  - post
   - Incentives
 layout: layouts/posts.njk
 enclosure:

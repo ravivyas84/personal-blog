@@ -5,7 +5,7 @@ categories:
   - Entrepreneurship
   - Learnings
 tags: 
-  - posts
+  - post
 layout: layouts/posts.njk
 enclosure:
 coverImage: "jimmy-chang-557501-unsplash.jpg"

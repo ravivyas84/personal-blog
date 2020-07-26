@@ -4,7 +4,7 @@ date: 2017-06-18
 categories: 
   - India 
 tags: 
-  - posts
+  - post
 layout: layouts/posts.njk
 enclosure:
 ---

@@ -1,10 +1,10 @@
 ---
-title: Eclipse Install error : eclipse JVM terminated. Exit code=13
+title: Eclipse Install error- eclipse JVM terminated. Exit code=13
 date: 2011-07-03
 categories: 
   - Software Development 
 tags: 
-  - posts
+  - post
 layout: layouts/posts.njk
 enclosure:
 ---

@@ -5,7 +5,7 @@ categories:
   - Growth 
   - Strategy 
 tags: 
-  - posts
+  - post
   - Sales 
 layout: layouts/posts.njk
 enclosure:

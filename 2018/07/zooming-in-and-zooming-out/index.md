@@ -5,7 +5,7 @@ categories:
   - Leadership 
   - Product Management 
 tags: 
-  - posts
+  - post
 layout: layouts/posts.njk
 enclosure:
 ---

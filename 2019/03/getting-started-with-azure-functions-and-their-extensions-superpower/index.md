@@ -4,7 +4,7 @@ date: 2019-03-23
 categories: 
   - Azure 
 tags: 
-  - posts
+  - post
   - Azure Functions
   - Journey with Azure 
   - Serverless

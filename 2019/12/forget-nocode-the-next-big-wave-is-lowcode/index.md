@@ -4,7 +4,7 @@ date: 2019-12-05
 categories: 
   - NoCode/LowCode
 tags: 
-  - posts
+  - post
   - lowCode
   - noCode
 layout: layouts/posts.njk

@@ -4,7 +4,7 @@ date: 2011-05-26
 categories: 
   - Software Development 
 tags: 
-  - posts
+  - post
 layout: layouts/posts.njk
 enclosure:
 ---

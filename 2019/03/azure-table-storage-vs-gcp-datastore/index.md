@@ -4,7 +4,7 @@ date: 2019-03-19
 categories: 
   - Azure 
 tags: 
-  - posts
+  - post
   - Journey with Azure 
 layout: layouts/posts.njk
 enclosure:

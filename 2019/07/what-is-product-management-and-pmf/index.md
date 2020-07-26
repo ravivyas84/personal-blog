@@ -4,7 +4,7 @@ date: 2019-07-25
 categories: 
   - Product Management 
 tags: 
-  - posts
+  - post
 layout: layouts/posts.njk
 enclosure:
 ---

@@ -5,7 +5,7 @@ categories:
   - Management 
   - Strategy 
 tags: 
-  - posts
+  - post
 layout: layouts/posts.njk
 enclosure:
 coverImage: "pablo-garcia-saldana-94058-unsplash.jpg"

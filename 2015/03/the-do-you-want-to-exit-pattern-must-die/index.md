@@ -4,7 +4,7 @@ date: 2015-03-08
 categories: 
   - User Experience 
 tags: 
-  - posts
+  - post
 layout: layouts/posts.njk
 enclosure:
 ---

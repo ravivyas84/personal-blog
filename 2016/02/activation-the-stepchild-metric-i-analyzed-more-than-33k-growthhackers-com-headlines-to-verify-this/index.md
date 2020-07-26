@@ -4,7 +4,7 @@ date: 2016-02-09
 categories: 
   - Metrics 
 tags: 
-  - posts
+  - post
 layout: layouts/posts.njk
 enclosure:
 ---

@@ -5,7 +5,7 @@ categories:
   - Community 
   - Metrics 
 tags: 
-  - posts
+  - post
 layout: layouts/posts.njk
 enclosure:
 ---

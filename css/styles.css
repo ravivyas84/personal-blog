@@ -180,31 +180,30 @@ p {
     margin-top: 60px;
     transform: translateX(-250px);
     transition: transform 250ms ease-in-out;
-    background-color: #e1e1e1;
+    background-color: #03a9f4;
 }
 .sidebarMenuInner{
+    font-size: 80%;
     margin:0;
     padding:0;
     border-top: 1px solid rgba(16, 16, 16, 0.1);
 }
 .sidebarMenuInner li{
     list-style: none;
-    color: #333333;
+    color: #fff;
     text-transform: uppercase;
     font-weight: bold;
-    padding: 20px;
+    padding: 10px;
     cursor: pointer;
     border-bottom: 1px solid rgba(16, 16, 16, 0.1);
 }
 .sidebarMenuInner li span{
     display: block;
-    font-size: 14px;
-    color: #333333
+    font-size: 80%;
 }
 .sidebarMenuInner li a{
-    color: #333;
+    color: #fff;
     text-transform: uppercase;
-    font-weight: bold;
     cursor: pointer;
     text-decoration: none;
 }

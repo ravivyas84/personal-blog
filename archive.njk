@@ -9,7 +9,7 @@ eleventyNavigation:
 <h1>Archive</h1>
 
 <ul>
-{%- for post in collections.post -%}
+{%- for post in collections.post | reverse -%}
   <li><a href="{{ post.url | url }}" > {{ post.data.title }} </a></li>
 {%- endfor -%}
 </ul>

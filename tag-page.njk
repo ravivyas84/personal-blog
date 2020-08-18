@@ -7,7 +7,7 @@ pagination:
   filter:
     - post
     - all
-permalink: /tags/{{ tag | slug }}/
+permalink: /tag/{{ tag | slug }}/
 ---
 {% set taglist = collections[ tag ] %}
 <h1>Tagged “{{ tag }}”</h1>
@@ -18,4 +18,4 @@ permalink: /tags/{{ tag | slug }}/
   </div>
 {% endfor %}
 
-<a id="allTagsLink" href="/tags/index.html">Back to all tags </a>
+<a id="allTagsLink" href="/tag/">Back to all tags </a>

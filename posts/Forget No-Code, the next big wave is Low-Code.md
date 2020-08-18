@@ -3,7 +3,7 @@ title: Forget No-Code, the next big wave is Low-Code
 date: 2019-12-05
  
 tags: 
-  - NoCode LowCode
+  - NoCode LowCode  
   - post
 layout: layouts/posts.njk
 myslug: forget-nocode-the-next-big-wave-is-lowcode

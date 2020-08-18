@@ -6,6 +6,7 @@ date: 2019-03-23
 tags: 
   - post
   - Journey with Azure 
+  - Software Development
 layout: layouts/posts.njk
 myslug: getting-started-with-azure-functions-and-their-extensions-superpower
 permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"

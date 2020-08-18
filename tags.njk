@@ -1,13 +1,13 @@
 ---
 layout: layouts/home.njk
-permalink: /tags/index.html
+permalink: /tag/index.html
 title: All Tags
 ---
 
 <h1>Tags</h1>
 
 {% for tag in collections.tagList %}
-  {% set tagUrl %}/tags/{{ tag.name | slug  }}/{% endset %}
+  {% set tagUrl %}/tag/{{ tag.name | slug  }}/{% endset %}
   <div>
   {# {name:a[i], count:b[i]} #}
   <a href="{{ tagUrl | url }}" class="post-tag">{{ tag.name }} ({{tag.count}})</a>

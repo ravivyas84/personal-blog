@@ -5,6 +5,7 @@ date: 2019-03-15
 tags: 
   - post
   - Journey with Azure 
+  - Software Development
 layout: layouts/posts.njk
 myslug: the-azure-portal-first-look
 permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"

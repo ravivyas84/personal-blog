@@ -5,6 +5,7 @@ date: 2019-03-19
 tags: 
   - post
   - Journey with Azure 
+  - Software Development
 layout: layouts/posts.njk
 myslug: azure-table-storage-vs-gcp-datastore/
 permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"

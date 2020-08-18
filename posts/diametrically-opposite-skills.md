@@ -3,7 +3,7 @@ title: Diametrically Opposite Skills
 date: 2018-07-16
 myslug: diametrically-opposite-skills
 
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 
 tags: 
   - Management 

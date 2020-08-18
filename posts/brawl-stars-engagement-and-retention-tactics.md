@@ -8,7 +8,7 @@ tags:
   - Engagement 
 layout: layouts/posts.njk
 myslug: brawl-stars-engagement-and-retention-tactics
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 ---
 
 ## Who is Super Cell

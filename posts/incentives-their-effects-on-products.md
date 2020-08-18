@@ -4,7 +4,7 @@ date: 2018-10-26
  
 myslug: incentives-their-effects-on-products
 
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 
 tags: 
   - Product Management 

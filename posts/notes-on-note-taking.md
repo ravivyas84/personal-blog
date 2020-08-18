@@ -7,7 +7,7 @@ tags:
   - post
 layout: layouts/posts.njk
 myslug: notes-on-note-taking
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 ---
 ![]({{ site.url }}/assets/lucrezia-carnelos-asm4t46tqcu-unsplash.jpg)
 

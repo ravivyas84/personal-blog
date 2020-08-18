@@ -4,7 +4,7 @@ date: 2018-08-31
  
 myslug: breaking-problems-down
 
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 
 tags: 
   - Entrepreneurship 

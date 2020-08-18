@@ -8,7 +8,7 @@ tags:
   - Pricing
 layout: layouts/posts.njk
 myslug: 9-things-to-consider-when-planning-pricing
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 ---
 
 ![]({{ site.url }}/assets/siora-photography-plxgjohmtx8-unsplash.jpg)

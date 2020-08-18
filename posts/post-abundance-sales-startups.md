@@ -3,7 +3,7 @@ title: Abundance, Sales & Startups
 date: 2017-03-30 
 myslug: post-abundance-sales-startups
 
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 
 tags: 
   - Growth 

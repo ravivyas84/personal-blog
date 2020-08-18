@@ -3,7 +3,7 @@ title: Cheap, yet Powerful App Analytics using Data Studio, BigQuery and Firebas
 date: 2017-05-10 
 myslug: cheap-yet-powerful-app-analytics-using-data-studio-bigquery-and-firebase-or-similar-services
 
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 
 tags: 
   - Metrics

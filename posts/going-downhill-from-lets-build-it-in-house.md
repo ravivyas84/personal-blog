@@ -3,7 +3,7 @@ title: Going Downhill from “Let’s build it in house”
 date: 2014-12-06
 myslug: going-downhill-from-lets-build-it-in-house
 
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 
 tags: 
   - post

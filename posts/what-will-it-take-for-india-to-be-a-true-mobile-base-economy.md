@@ -3,7 +3,7 @@ title: What will it take for India to be a true mobile-base economy?
 date: 2017-06-19
 myslug: what-will-it-take-for-india-to-be-a-true-mobile-base-economy
 
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 
 tags: 
   - India 

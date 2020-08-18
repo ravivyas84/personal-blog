@@ -8,7 +8,7 @@ tags:
   - Software Development
 layout: layouts/posts.njk
 myslug: azure-table-storage-vs-gcp-datastore/
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 ---
 
 This is a part of my "[Journey with Azure](/tags/journey-with-azure/)" series

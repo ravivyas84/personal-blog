@@ -9,7 +9,7 @@ tags:
   - Software Development
 layout: layouts/posts.njk
 myslug: getting-started-with-azure-functions-and-their-extensions-superpower
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 ---
 
 _This is a part of my “_[_Journey with Azure_](/tags/journey-with-azure/)_” series_

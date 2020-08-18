@@ -3,7 +3,7 @@ title: Counter Metrics & Counter Dimensions
 date: 2016-08-18
 myslug: counter-metrics-counter-dimensions/
 
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 
 tags: 
   - Metrics 

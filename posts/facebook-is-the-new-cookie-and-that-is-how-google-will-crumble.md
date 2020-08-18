@@ -3,7 +3,7 @@ title: Facebook is the new Cookie, and that is how Google will crumble
 date: 2015-03-18
 myslug: facebook-is-the-new-cookie-and-that-is-how-google-will-crumble
 
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 
 tags: 
   - post

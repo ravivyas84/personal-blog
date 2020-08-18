@@ -3,7 +3,7 @@ title: Activation - The Stepchild Metric; I analyzed more than 33K GrowthHackers
 date: 2016-02-09
 myslug: activation-the-stepchild-metric-i-analyzed-more-than-33k-growthhackers-com-headlines-to-verify-this
 
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 
 tags: 
   - Metrics 

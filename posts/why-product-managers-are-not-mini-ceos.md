@@ -3,7 +3,7 @@ title: Why Product Managers are not Mini CEO’s
 date: 2017-04-28
 myslug: why-product-managers-are-not-mini-ceos
 
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 
 tags: 
   - Product Management 

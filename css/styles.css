@@ -8,23 +8,25 @@ html {
 body {
     color: #444;
     font-family: Georgia, Cambria, Times New Roman, Times, serif;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.6;
     text-align: center;
     background: #fff;
 }
+
 @media (min-width: 600px) {
     body {
-        font-size: 20px;
+        font-size: 18px;
     }
 }
+
 a:link,
 a:visited {
     color: #222;
 }
 footer{
     color: #888;
-    font-size: 0.7em;
+    font-size: 70%;
     margin-bottom: 4em;
     padding-bottom: 2em;
     padding-top: 2em;
@@ -78,7 +80,7 @@ hr {
 }
 p.meta {
     color: #444;
-    font-size: 0.8em;
+    font-size: 80%;
 }
 ul.listing {
     list-style: none;
@@ -137,7 +139,7 @@ blockquote em {
 }
 pre {
     background-color: #eee;
-    font-size: 0.7em;
+    font-size: 80%;
     margin-bottom: 0;
     margin-top: 0;
     overflow-x: scroll;

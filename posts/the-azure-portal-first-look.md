@@ -8,7 +8,7 @@ tags:
   - Software Development
 layout: layouts/posts.njk
 myslug: the-azure-portal-first-look
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 ---
 
 _This is a first of a 3 part "Journey with Azure" series. Expect more in the future as I play around with Azure._

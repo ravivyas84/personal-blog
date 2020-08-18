@@ -7,7 +7,7 @@ tags:
   - post
 layout: layouts/posts.njk
 myslug: forget-nocode-the-next-big-wave-is-lowcode
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 ---
 
 NoCode tools are a trending category, and everyone wants to be a part of it. Recently Webflow had a [NoCode conf](https://webflow.com/nocodeconf) too. From the likes of Webflow, Airtable, Bubble, and many more, all of them aim to give non-developers the power to create applications. 

@@ -3,7 +3,7 @@ title: The “Do you want to Exit” Pattern must Die!
 date: 2015-03-08
 myslug: the-do-you-want-to-exit-pattern-must-die
 
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 
 tags: 
   - post

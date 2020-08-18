@@ -7,7 +7,7 @@ tags:
   - Opinions
 layout: layouts/posts.njk
 myslug: hey-com-the-craft-of-simplicity-and-opinions
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 
 ---
 

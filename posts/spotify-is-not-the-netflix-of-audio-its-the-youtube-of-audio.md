@@ -8,7 +8,7 @@ tags:
   - Podcasts
 layout: layouts/posts.njk
 myslug: spotify-is-not-the-netflix-of-audio-its-the-youtube-of-audio
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 
 ---
 ![]({{ site.url }}/assets/android-2618093_1280.jpg)

@@ -6,7 +6,7 @@ tags:
   - Product Management 
   - post
 myslug: stack-the-bricks-with-ok-moments-rather-than-bet-on-aha-moments
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 layout: layouts/posts.njk
 ---
 

@@ -11,7 +11,7 @@ layout: layouts/posts.njk
 
 coverImage: "perry-grone-lblgffladry-unsplash.jpg"
 myslug: the-importance-of-a-community-and-the-a-r-t-model-of-growth
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 ---
 
 ![]({{ site.url }}/assets/perry-grone-lblgffladry-unsplash.jpg)

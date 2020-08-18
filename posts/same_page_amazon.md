@@ -6,7 +6,7 @@ tags:
   - post
 layout: layouts/posts.njk
 myslug: same-amazon-page-ranked-1-2-on-google
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 ---
 
 The Reason I find SEO fascinating is there is no easy rule book to find and follow. Side note: I believe If you serve the user right, you will rank higher over time. Back to my main point, I googled for a book and noticed Amazon.in ranked #1 & #2.

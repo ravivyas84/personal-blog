@@ -3,7 +3,7 @@ title: Eclipse Install error- eclipse JVM terminated. Exit code=13
 date: 2011-07-03
 myslug: eclipse-install-error-eclipse-jvm-terminated-exit-code13
 
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 
 tags: 
   - Software Development 

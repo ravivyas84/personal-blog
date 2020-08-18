@@ -3,7 +3,7 @@ title: The Product Death Cycle & Its Affect On A Startup
 date: 2016-04-14
 myslug: the-product-death-cycle-its-affect-on-a-startup/
 
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 
 tags: 
   - Entrepreneurship 

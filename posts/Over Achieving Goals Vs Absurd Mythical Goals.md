@@ -6,7 +6,7 @@ tags:
   - post
 layout: layouts/posts.njk
 myslug: over-achieving-goals-vs-absurd-mythical-goals
-permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
+# permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 ---
 
 I was talking to a friend today, and in passing, he mentioned his business partner will like me. I immediately asked why? To which he replied, he likes giving his teams overachieving goal, but his business partner thinks because they are a stretch they may be missed, demotivating their team.

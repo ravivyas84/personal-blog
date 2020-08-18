@@ -1,12 +1,11 @@
 ---
 title: Going Downhill from “Let’s build it in house”
 date: 2014-12-06
-categories: 
-
 tags: 
   - post
+  - Product Management
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 Are you ready to support something that is not your core product?

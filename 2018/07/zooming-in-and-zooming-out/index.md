@@ -1,13 +1,12 @@
 ---
 title: Zooming in and Zooming out
 date: 2018-07-17
-categories: 
+tags: 
   - Leadership 
   - Product Management 
-tags: 
   - post
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 I had recently heard a phrase, great leaders are good at zooming in and zooming out, it gave examples of Elon Musk and Steve Jobs.

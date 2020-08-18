@@ -1,12 +1,11 @@
 ---
 title: The “Do you want to Exit” Pattern must Die!
 date: 2015-03-08
-categories: 
-  - User Experience 
 tags: 
   - post
+  - User Experience 
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 Your users aren’t dumb.

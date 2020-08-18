@@ -1,13 +1,13 @@
 ---
 title: 6 Basic UX principles I self-learned as a Product Manager
 date: 2018-08-04
-categories: 
+ 
+tags: 
   - Product Management 
   - User Experience 
-tags: 
   - post
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 I have been into products this entire decade, and with the quest to become a good product manager comes the quest to learn ancillary things. One such thing is the user experience. Great products almost always have great and simple user experiences. I have picked up some basic UX principles along my Product Management Journey, which I have listed below. A heads up before you read: Some of the things I mentioned may be actual UX principles somewhere with nice names, but I never came across them. What I am trying to do is basically list a few key principles which are based more on experience and common sense, which are many a time completely ignored.

@@ -1,13 +1,12 @@
 ---
 title: Azure Table Storage vs GCP DataStore
 date: 2019-03-19
-categories: 
-  - Azure 
+ 
 tags: 
   - post
   - Journey with Azure 
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 _T_his is a part of my "[Journey with Azure](https://ravivyas.com/tag/journey-with-azure/)" series

@@ -1,0 +1,21 @@
+---
+layout: layouts/home.njk
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+  filter:
+    - post
+    - all
+permalink: /tags/{{ tag | slug }}/
+---
+{% set taglist = collections[ tag ] %}
+<h1>Tagged “{{ tag }}”</h1>
+{% for post in taglist | reverse %}
+  <div class="blog-post">
+   <span class="blog-post-date">{{post.data.date |  htmlDateString   }}</span> 
+  <a href="{{ post.url | url }}" > {{ post.data.title }} </a>
+  </div>
+{% endfor %}
+
+<a id="allTagsLink" href="/tags/index.html">Back to all tags </a>

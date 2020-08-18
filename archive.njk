@@ -4,12 +4,15 @@ permalink: /posts/
 eleventyNavigation:
   key: Archive
   order: 2
+title: All Blog Posts
 ---
 
-<h1>Archive</h1>
+<h1>Blog Posts</h1>
 
-<ul>
+
 {%- for post in collections.post | reverse -%}
-  <li><a href="{{ post.url | url }}" > {{ post.data.title }} </a></li>
+<div class="blog-post">
+ <span class="blog-post-date">{{post.data.date |  htmlDateString   }}</span> 
+  <a href="{{ post.url | url }}" > {{ post.data.title }} </a>
+</div>
 {%- endfor -%}
-</ul>

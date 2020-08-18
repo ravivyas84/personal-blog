@@ -1,13 +1,13 @@
 ---
 title: Mistakes to avoid when scaling your business
 date: 2018-09-03
-categories: 
+ 
+tags: 
   - Entrepreneurship 
   - Learnings 
-tags: 
   - post
 layout: layouts/posts.njk
-enclosure:
+
 coverImage: "neonbrand-395901-unsplash.jpg"
 ---
 

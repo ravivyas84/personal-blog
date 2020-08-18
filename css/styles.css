@@ -13,7 +13,7 @@ body {
     text-align: center;
     background: #fff;
 }
-@media (min-width: 800px) {
+@media (min-width: 600px) {
     body {
         font-size: 20px;
     }
@@ -62,9 +62,9 @@ footer {
     text-align: left;
     width: 90%;
 }
-@media (min-width: 800px) {
+@media (min-width: 600px) {
     .container {
-        width: 700px;
+        width: 600px;
     }
 }
 hr {
@@ -106,16 +106,12 @@ h4 {
     line-height: 1.1;
 }
 h2 {
-    font-size: 34px;
+    font-size: 150%;
     letter-spacing: -0.01em;
 }
-h2 small {
-    color: #888;
-    font-size: 0.5em;
-    font-weight: 400;
-}
+
 h3 {
-    margin-top: 2em;
+    margin-top: 1.5em;
 }
 figure {
     margin-left: 0;
@@ -147,11 +143,6 @@ pre {
     overflow-x: scroll;
     padding-left: 1em;
     padding-right: 1em;
-}
-
-p {
-    margin-block-start: 0em;
-    margin-block-end: 0em;
 }
 
 .header {
@@ -273,4 +264,31 @@ input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
     box-sizing: border-box;
     transform: rotate(-135deg);
     margin-top: -9px;
+}
+
+.blog-post {
+    margin-bottom: 0.5em;
+    display: flex;
+    flex-direction: row;
+}
+
+.blog-post a{
+    text-decoration: none;
+    color: #444;
+}
+
+.blog-post-date{
+    font-size: 90%;
+    display: block;
+    margin-right: 10px;
+    min-width: 100px;
+}
+
+#allTagsLink{
+    font-size: 90%;
+    text-decoration: none;
+    width: 100%;
+    text-align: center;
+    display: block;
+    margin-top: 1.5em;
 }

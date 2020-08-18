@@ -1,13 +1,12 @@
 ---
 title: Why people Fail
 date: 2016-01-04
-categories: 
-  - Entrepreneurship 
-  - Leadership 
 tags: 
   - post
+  - Entrepreneurship 
+  - Leadership 
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 Last month something struck me, something I have been seeing folks do for the last 5 years. It resulted in this tweet:

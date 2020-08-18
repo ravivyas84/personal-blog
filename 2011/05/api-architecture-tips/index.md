@@ -1,12 +1,11 @@
 ---
 title: API Architecture Tips
 date: 2011-05-26
-categories: 
-  - Software Development 
 tags: 
   - post
+  - Software Development 
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 I am just about to complete a project where my company architected an API for a client. I learned a lot of things during this project. So here are my tips for API architecture.

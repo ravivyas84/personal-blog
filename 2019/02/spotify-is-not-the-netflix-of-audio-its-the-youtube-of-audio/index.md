@@ -1,14 +1,13 @@
 ---
 title: Spotify is not the Netflix of Audio, it's the YouTube of audio
 date: 2019-02-06
-categories: 
-  - Strategy 
+ 
 tags: 
+  - Strategy 
   - post
-  - podcasts
-  - Spotify 
+  - Podcasts
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 When rumours of Spotify acquiring Gimlet started, Twitter was abuzz with the phrase: Spotify wants to be the Netflix of Audio. Which I inherently did not like, but with Spotify also acquiring Anchor, I am certain that Spotify wants to be the Youtube of Audio, not Netflix, infact there will never be a Netflix of Audio. Let us dig in on the Why. 

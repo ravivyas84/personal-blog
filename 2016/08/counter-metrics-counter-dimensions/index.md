@@ -1,13 +1,11 @@
 ---
 title: Counter Metrics & Counter Dimensions
 date: 2016-08-18
-categories: 
-  - Community 
-  - Metrics 
 tags: 
+  - Metrics 
   - post
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 Counter Metrics have of late become very popular. Most of the folks I talk to know about it from [Julie Zhuo](https://medium.com/u/b8a4e5ae7490?source=post_page-----d8831f725bc7----------------------)’s [talk](https://medium.com/the-year-of-the-looking-glass/building-products-91aa93bea4bb), she is the Product design VP @ Facebook.

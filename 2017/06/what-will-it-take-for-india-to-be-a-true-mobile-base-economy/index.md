@@ -1,12 +1,12 @@
 ---
 title: What will it take for India to be a true mobile-base economy?
 date: 2017-06-18
-categories: 
-  - India 
 tags: 
+  - India 
   - post
+  - Opinions
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 _The Indian mobile internet ecosystem has grown a lot recently, but we are still far away from being a mobile-based economy._

@@ -1,13 +1,13 @@
 ---
 title: Drawing Maps to understand your Organization and the future
 date: 2018-09-24
-categories: 
+ 
+tags: 
   - Leadership 
   - Management 
-tags: 
   - post
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 The last 2-4 months I have been stuck with a few concepts like [Zooming in and zooming out](https://ravivyas.com/2018/07/17/zooming-in-and-zooming-out/), [breaking problems down](https://ravivyas.com/2018/08/31/breaking-problems-down/). While the concepts are important my interpretations of them are very crude in retrospect. I say that because I believe what I have tried to encompass in 2 blog posts with more on the way, Tim O'Reilly of O'Reilly Media sums it up in 2 lines

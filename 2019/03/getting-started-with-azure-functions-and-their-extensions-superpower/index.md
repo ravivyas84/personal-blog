@@ -1,16 +1,13 @@
 ---
 title: Getting Started with Azure Functions and their extensions Superpower
 date: 2019-03-23
-categories: 
-  - Azure 
+ 
+
 tags: 
   - post
-  - Azure Functions
   - Journey with Azure 
-  - Serverless
-  - Tutorial
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 _This is a part of my “_[_Journey with Azure_](https://ravivyas.com/tag/journey-with-azure/)_” series_

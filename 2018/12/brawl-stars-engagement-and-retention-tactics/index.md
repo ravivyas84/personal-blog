@@ -1,15 +1,13 @@
 ---
 title: Breaking Down Brawl Star's Engagement and Retention Tactics
 date: 2018-12-18
-categories: 
-  - Growth 
+ 
 tags: 
+  - Growth 
   - post
   - Engagement 
-  - Games 
-  - Tactics 
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 ## Who is Super Cell

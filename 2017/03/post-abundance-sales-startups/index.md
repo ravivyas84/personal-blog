@@ -1,14 +1,13 @@
 ---
 title: Abundance, Sales & Startups
-date: 2017-03-30
-categories: 
+date: 2017-03-30 
+tags: 
   - Growth 
   - Strategy 
-tags: 
   - post
   - Sales 
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 _This is an excerpt of my Audio post. List to the entire story here_ 

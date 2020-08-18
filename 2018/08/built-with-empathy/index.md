@@ -1,13 +1,13 @@
 ---
 title: Built with Empathy
 date: 2018-08-21
-categories: 
+ 
+tags: 
   - Product Management 
   - User Experience 
-tags: 
   - post
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 > **empathy** _noun_

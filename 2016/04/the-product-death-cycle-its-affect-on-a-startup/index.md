@@ -1,13 +1,12 @@
 ---
 title: The Product Death Cycle & Its Affect On A Startup
 date: 2016-04-14
-categories: 
+tags: 
   - Entrepreneurship 
   - Product Management 
-tags: 
   - post
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 ![6273248505_43d0b56424_o](images/6273248505_43d0b56424_o.png)

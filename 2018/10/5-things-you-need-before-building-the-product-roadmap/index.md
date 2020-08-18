@@ -1,7 +1,7 @@
 ---
 title: 5 Things You Need Before Building The Product Roadmap
 date: 2018-10-28
-categories: 
+ 
 tags: 
   - post
   - Mission
@@ -10,7 +10,7 @@ tags:
   - Strategy 
   - Vision
 layout: layouts/posts.njk
-enclosure:
+
 coverImage: "daria-nepriakhina-474036-unsplash.jpg"
 ---
 

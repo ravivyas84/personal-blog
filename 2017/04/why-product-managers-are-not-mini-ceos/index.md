@@ -1,12 +1,12 @@
 ---
 title: Why Product Managers are not Mini CEO’s
 date: 2017-04-28
-categories: 
-  - Product Management 
 tags: 
+  - Product Management 
   - post
+  - Opinions
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 _Note: I had written this post as a companion to an episode published on Odiocast, which is why this is a small listicle. Unfortunately Odiocast no longer exists._

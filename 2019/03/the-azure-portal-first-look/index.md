@@ -1,13 +1,12 @@
 ---
 title: The Azure Portal- First Look
 date: 2019-03-15
-categories: 
-  - Azure 
+ 
 tags: 
   - post
   - Journey with Azure 
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 _T_his is a part of my "Journey with Azure" series, the also the first part of It (and a short one). Expect more in the future as I play around with Azure.

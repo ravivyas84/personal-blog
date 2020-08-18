@@ -1,12 +1,11 @@
 ---
 title: Data from different perspectives
 date: 2016-07-19
-categories: 
-  - Metrics 
 tags: 
+  - Metrics 
   - post
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 ### Why you need to look at the same data from various perspectives

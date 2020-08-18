@@ -1,12 +1,11 @@
 ---
 title: Eclipse Install error- eclipse JVM terminated. Exit code=13
 date: 2011-07-03
-categories: 
-  - Software Development 
 tags: 
+  - Software Development 
   - post
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 I have this bad habit of giving up on ubuntu and removing it after it breaks, but then I miss the command line and install it again, due to which I have it set up my tool over and over again. One of the most important tools is Eclipse which I need for Android development. Usually, I follow the right steps and get eclipse up and running without any issue, but twice I have come across this error

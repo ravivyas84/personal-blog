@@ -1,17 +1,16 @@
 ---
 title: Cheap, yet Powerful App Analytics using Data Studio, BigQuery and Firebase (or Similar services)
-date: 2017-05-10
-categories: 
-  - Metrics
+date: 2017-05-10 
 tags: 
+  - Metrics
   - post
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 _Knowing what is happening in your App is critical for an App to Grow. As the famous saying goes: “What can’t be measured can’t be improved”_
 
-Analytics can get very expensive very quickly. [Google](https://hackernoon.com/tagged/google) Analytics Premium costs $150,000 a year, pricing for most other tools start at more than a $1,000 a month. While all the tools have generous free tiers, they are also crippled when it comes to features. Bootstrapped startups can’t afford such plans, but do want access to power [tools](https://hackernoon.com/tagged/tools). This was one of the reasons we started our old company PureMetrics, but the market is already crowded and the Biggies are throwing their weight around, by providing Analytics as a feature for their Cloud products. Overall it is good for the ecosystem as it lowers the cost for everyone.
+Analytics can get very expensive very quickly Google Analytics Premium costs $150,000 a year, pricing for most other tools start at more than a $1,000 a month. While all the tools have generous free tiers, they are also crippled when it comes to features. Bootstrapped startups can’t afford such plans, but do want access to power tools. This was one of the reasons we started our old company PureMetrics, but the market is already crowded and the Biggies are throwing their weight around, by providing Analytics as a feature for their Cloud products. Overall it is good for the ecosystem as it lowers the cost for everyone.
 
 This post will dive into using Data Studio, BigQuery and Firebase to get your analytics done close to free.
 

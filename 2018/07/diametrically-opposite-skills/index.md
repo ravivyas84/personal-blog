@@ -1,13 +1,12 @@
 ---
 title: Diametrically Opposite Skills
 date: 2018-07-16
-categories: 
+tags: 
   - Management 
   - Strategy 
-tags: 
   - post
 layout: layouts/posts.njk
-enclosure:
+
 coverImage: "pablo-garcia-saldana-94058-unsplash.jpg"
 ---
 

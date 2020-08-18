@@ -1,13 +1,13 @@
 ---
 title: Incentives & Their Effects on Products
 date: 2018-10-26
-categories: 
-  - Product Management 
+ 
 tags: 
+  - Product Management 
   - post
   - Incentives
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 Netflix & PrimeVideo are so different from YouTube as products, driven into different directions based on their incentives. Here are a bunch of observations

@@ -1,13 +1,11 @@
 ---
 title: Why Startups are hard
 date: 2017-04-18
-categories: 
-  - Entrepreneurship
-  - Learnings
 tags: 
+  - Entrepreneurship
   - post
 layout: layouts/posts.njk
-enclosure:
+
 coverImage: "jimmy-chang-557501-unsplash.jpg"
 ---
 

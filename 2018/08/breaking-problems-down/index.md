@@ -1,14 +1,14 @@
 ---
 title: Breaking problems down
 date: 2018-08-31
-categories: 
+ 
+tags: 
   - Entrepreneurship 
   - Growth 
   - Strategy 
-tags: 
   - post
 layout: layouts/posts.njk
-enclosure:
+
 coverImage: "rawpixel-626041-unsplash.jpg"
 ---
 

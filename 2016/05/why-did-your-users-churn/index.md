@@ -1,12 +1,11 @@
 ---
 title: Why did your users churn?
-date: 2016-05-29
-categories: 
-  - Growth 
+date: 2016-05-29 
 tags: 
   - post
+  - Growth 
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 _That is the wrong questions_

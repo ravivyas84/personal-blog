@@ -1,12 +1,11 @@
 ---
 title: Activation - The Stepchild Metric; I analyzed more than 33K GrowthHackers.com headlines to verify this
 date: 2016-02-09
-categories: 
-  - Metrics 
 tags: 
+  - Metrics 
   - post
 layout: layouts/posts.njk
-enclosure:
+
 ---
 
 When you talk to a lot of Startups or App Publishers and ask them which metrics they focus on, most will mention 2 of them, namely:

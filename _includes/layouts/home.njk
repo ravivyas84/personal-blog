@@ -2,3 +2,14 @@
 layout: layouts/base.njk
 ---
 {{ content | safe }}
+
+{# Latest 5 blog posts #}
+
+{%- for post in collections.post | reverse -%}
+    {% if loop.index0 < 5 %} 
+        <div class="blog-post">
+        <span class="blog-post-date">{{post.data.date |  htmlDateString   }}</span> 
+        <a href="{{ post.url | url }}" > {{ post.data.title }} </a>
+        </div>
+    {% endif %}
+{%- endfor -%}

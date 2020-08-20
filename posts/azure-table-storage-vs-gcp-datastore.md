@@ -11,7 +11,7 @@ myslug: azure-table-storage-vs-gcp-datastore/
 # permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 ---
 
-This is a part of my "[Journey with Azure](/tags/journey-with-azure/)" series
+_This is a part of my “_[_Journey with Azure_](/tag/journey-with-azure/)_” series_
 
 So as a part of playing around with Azure, I decided to clone AirMeet's codebase with Azure as a backend service. Airmeet is currently running on AppEngine with Datastore as a database. The equivalents on the Azure side are AppService with TableStore as the database. Based on that experience here are some of the differences between the two NoSQL key-value stores.
 

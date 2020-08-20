@@ -12,7 +12,7 @@ myslug: getting-started-with-azure-functions-and-their-extensions-superpower
 # permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 ---
 
-_This is a part of my “_[_Journey with Azure_](/tags/journey-with-azure/)_” series_
+_This is a part of my “_[_Journey with Azure_](/tag/journey-with-azure/)_” series_
 
 I have always been fascinated by managed services and serverless computing. It started with my first startup PureMetrics, where we used AppEngine and BigQuery to built an Analytics product. Because both AppEngine and BigQuery were fully managed services, [Abhishek Nandi](https://www.abhisheknandi.com/) single handely built the entire tech for it. Later on when Abhishek & I were building Odiocast, we used other managed services to keep things simple. FireBase, AWS Lambdas and other services allowed us to worry more about the product rather than worry about devops as a 2 person startup.  
 

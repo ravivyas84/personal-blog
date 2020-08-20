@@ -11,7 +11,7 @@ myslug: what-is-product-management-and-pmf
 
 ---
 
-In my last post I shared a deck on "[What Product Market Fit is not](http://ravivyas.com/2019/07/13/what-product-market-fit-is-not/)" in which I used the following definition of Product Management
+In my last post I shared a deck on "[What Product Market Fit is not](https://ravivyas.com/2019/07/13/what-product-market-fit-is-not/)" in which I used the following definition of Product Management
 
 > Product Management is working towards getting the Right Product in the Right Package to the Right User
 > 

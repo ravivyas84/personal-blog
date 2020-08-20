@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ myslug | slug }}/index.html"
 ---
-<h2>{{ title }}</h2>
+<h1>{{ title }}</h1>
 <div class="post-content">
   {{ content | safe }}
 </div>

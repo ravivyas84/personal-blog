@@ -1,5 +1,5 @@
 ---
-title: About - Ravi Vyas
+title: Ravi Vyas - About
 layout: layouts/home.njk
 ---
 
@@ -13,7 +13,7 @@ I am an entrepreneur at heart. As a perpetual learner, my career has taken me fr
 
 The only _"success"_ w.r.t my startups was Odiocast, where we were working on making Podcasting simpler, which got acquired by Yourstory within three months of inception. In reality, my experiences have been stepping stones for my understanding of both people and products that serve them.
 
-My current interests lie in [Product Management](/tag/product-management/), [Growth](/tag/growth/) driven by Content & [SEO](/tag/seo) & [Community](/tag/community) & an eternal love for [Entrepreneurship](/tag/entrepreneurship/)
+My current interests lie in [Product Management](/tag/product-management/), [Growth](/tag/growth/) driven by Content & [SEO](/tag/seo/) & [Community](/tag/community/) & an eternal love for [Entrepreneurship](/tag/entrepreneurship/)
 
 My current mission, which needs better articulation, is _to help non-developers do more with computers and the internet in a mechanism they are comfortable in._
 

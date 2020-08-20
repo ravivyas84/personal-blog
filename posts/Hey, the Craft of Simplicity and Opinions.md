@@ -59,15 +59,16 @@ Hey comes from their opinions 
 
 ### On Signatures
 
-https://twitter.com/dhh/status/1230988027930873857
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Email signatures were a mistake.</p>&mdash; DHH (@dhh) <a href="https://twitter.com/dhh/status/1230988027930873857">February 21, 2020</a></blockquote> 
 
 ### On Spy Pixels
 
-https://twitter.com/dhh/status/1225511250316144651
+<blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">You better fucking believe it. Not only are we going to break those spy pixels, but we&#39;re going to call out and shame every sender that tries to pull that shit on you. And then we&#39;re going to give you a one-click option to block their spying ass right there!! <a href="https://t.co/pYmJq0guoV">https://t.co/pYmJq0guoV</a></p>&mdash; DHH (@dhh) <a href="https://twitter.com/dhh/status/1225511250316144651">February 6, 2020</a></blockquote> 
+
 
 ### On Spam filtering
 
-https://twitter.com/dhh/status/1232677623785852929
+<blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">You better fucking believe it. Not only are we going to break those spy pixels, but we&#39;re going to call out and shame every sender that tries to pull that shit on you. And then we&#39;re going to give you a one-click option to block their spying ass right there!! <a href="https://t.co/pYmJq0guoV">https://t.co/pYmJq0guoV</a></p>&mdash; DHH (@dhh) <a href="https://twitter.com/dhh/status/1225511250316144651">February 6, 2020</a></blockquote> 
 
 > Strong opinions can become a rallying cry, which is good for growth ;)
 

@@ -20,6 +20,11 @@ module.exports = function(eleventyConfig) {
       return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
     });
 
+    eleventyConfig.addFilter('stringDump', (arg) => {
+      console.log(arg);
+      return "";
+    });
+
     eleventyConfig.addCollection("tagList", function(collection) {
       let tagSet = [];
       var arr = [];
@@ -40,17 +45,9 @@ module.exports = function(eleventyConfig) {
             return true;
           });
   
-  
-
           arr = arr.concat(tags);
           // console.log("Item : " + item.data.toString());
-          // console.log("Item : " + JSON.stringify(tags));
-
-
-
-          
-          
-          
+          // console.log("Item : " + JSON.stringify(tags));          
         }
       });
       var a = [], b = [], prev;

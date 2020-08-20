@@ -15,7 +15,7 @@ layout: layouts/posts.njk
 
 Last month something struck me, something I have been seeing folks do for the last 5 years. It resulted in this tweet:
 
-https://twitter.com/ravivyas84/status/673810633737965568
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The worst failures are those where people don’t realise they have failed. From there delusion  drives you rather than  perseverance</p>&mdash; Ravi Vyas (@ravivyas84) <a href="https://twitter.com/ravivyas84/status/673810633737965568">Dec 7, 2015</a></blockquote>
 
 **Arrogance or Blindness by Ego**
 

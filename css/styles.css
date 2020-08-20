@@ -32,8 +32,8 @@ footer{
     padding-top: 2em;
 }
 .persona{
-    /* padding-bottom: 32px;
-    padding-top:22px; */
+    padding-bottom: 20px;
+    padding-top:22px; 
     /* background-color:#e1e1e1; */
 }
 
@@ -44,6 +44,7 @@ footer{
     letter-spacing: 0.08em;
     text-transform: uppercase;
     text-decoration: none;
+    display: block;
 }
 
 .persona a {

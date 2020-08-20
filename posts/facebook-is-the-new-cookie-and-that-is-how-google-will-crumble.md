@@ -13,6 +13,8 @@ layout: layouts/posts.njk
 
 ---
 
+![]({{site.url}}/assets/fb.jpg)
+
 Facebook this week announced their new Ad Exchange, basically extending their Video Ad network which was powered by LiveRail to Display Ads too. In short, this means that marketers spending money on Facebook can now use Facebook’s targeting capabilities on other display networks, essentially converting some of the other Ad Networks to Dumb pipes and out-performing other exchanges. People hoped Mobile RTB was going to be as game-changing as it was on the Web, the biggest hurdle was the lack of an equivalent to the Cookie on Mobile, due to which Exchanges started heavily depending on Data Management Platforms (DMPs) which tired to function like Cookies by aggregating data from various 3rd parties. But Mobile RTB never really took off, on the other hand, Facebook started to outperform Google and others on Mobile because of better targeting.
 
 How powerful Facebook is at targeting the right user was already shown in the capability to deliver the best performance for App Install Ads, information a bunch of developers have shared with me. Other signals of this are Facebook growing at a rapid pace, and according to some [estimates](http://adexchanger.com/online-advertising/report-facebook-pulls-ahead-of-google-in-us-digital-display-ad-revenues/), they will overtake Google (and have done the same in the US already). This when they have just started leveraging Instagram and have not even though of Whatsapp.

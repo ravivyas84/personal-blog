@@ -14,7 +14,7 @@ There is a lot of fluff in Entrepreneurship and Product Management which is pass
 
 A friend added me into a Twitter thread, which trigged a long time rant I had on it.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Frankly &quot;Ah ha&quot; Moments are overrated, Only at launch do products do just one thing for all their users. In most cases selection of a product is a series of &quot;Ok&quot; moments. &lt;cont&gt;</p>&mdash; Ravi Vyas ⊾ (@ravivyas84) <a href="https://twitter.com/ravivyas84/status/1280370903042252801?ref_src=twsrc%5Etfw">July 7, 2020</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Frankly &quot;Ah ha&quot; Moments are overrated, Only at launch do products do just one thing for all their users. In most cases selection of a product is a series of &quot;Ok&quot; moments. &lt;cont&gt;</p>&mdash; Ravi Vyas (@ravivyas84) <a href="https://twitter.com/ravivyas84/status/1280370903042252801">July 7, 2020</a></blockquote>
 
 ## A product is a Stack of things.
 

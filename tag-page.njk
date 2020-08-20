@@ -7,8 +7,12 @@ pagination:
   filter:
     - post
     - all
+    - tagList
+    
 permalink: /tag/{{ tag | slug }}/
-title: Tagged “{{ tag }}
+eleventyComputed:
+  title: Tagged {{ tag }}
+
 ---
 {% set taglist = collections[ tag ] %}
 <h1>Tagged “{{ tag }}”</h1>

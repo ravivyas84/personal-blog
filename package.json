@@ -4,11 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "clear;rm -rf _site/;ELEVENTY_ENV=development npx @11ty/eleventy",
+    "prod": "clear;rm -rf _site/;ELEVENTY_ENV=production npx @11ty/eleventy"
   },
   "author": "ravi vyas",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0"
+    "@11ty/eleventy": "^0.12.1"
   }
 }

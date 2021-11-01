@@ -1,5 +1,5 @@
 ---
-title: Your Users are on a Journey with your Product. As a Product Panager you are a Guide
+title: Your Users are on a Journey with your Product. As a Product Manager you are a Guide
 date: 2021-10-31
 myslug: product-is-a-journey-product-manager-is-a-guide
 tags: 

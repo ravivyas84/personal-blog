@@ -60,7 +60,7 @@ footer {
 }
 
 .nav {
-    font-size: 80%;
+    font-size: 90%;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
     display: flex;
@@ -71,8 +71,8 @@ footer {
 .nav-item {
     font-size: 90%;
     text-decoration: none;
-    padding-left: 3px;
-    padding-right: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 footer {

@@ -5,7 +5,7 @@ layout: layouts/home.njk
 
 ## About
 
-I am an entrepreneur at heart. As a perpetual learner, my career has taken me from being an Android developer to attempting to build various products and startups. On the way, I worked in Mobile Advertising, Podcasting, Media & Marketing Automation industries. Currently I am working at the Interection of Mobile Games, Data Analytics and SaaS.
+I am an entrepreneur at heart. As a perpetual learner, my career has taken me from being an Android developer to attempting to build various products and startups. On the way, I worked in Mobile Advertising, Podcasting, Media & Marketing Automation industries. Currently I am working at the intersection of Mobile Games, Data Analytics and SaaS at Jambox Games
 
 <div>
 <img src="{{site.url}}/assets/ravivyas.png" width="131" height="149"/>

@@ -5,7 +5,7 @@ layout: layouts/home.njk
 
 ## About
 
-I am an entrepreneur at heart. As a perpetual learner, my career has taken me from being an Android developer to attempting to build various products and startups. On the way, I worked in Mobile Advertising, Podcasting, Media & Marketing Automation industries. 
+I am an entrepreneur at heart. As a perpetual learner, my career has taken me from being an Android developer to attempting to build various products and startups. On the way, I worked in Mobile Advertising, Podcasting, Media & Marketing Automation industries. Currently I am working at the Interection of Mobile Games, Data Analytics and SaaS.
 
 <div>
 <img src="{{site.url}}/assets/ravivyas.png" width="131" height="149"/>
@@ -15,7 +15,7 @@ The only _"success"_ w.r.t my startups was Odiocast, where we were working on ma
 
 My current interests lie in [Product Management](/tag/product-management/), [Analytics](/tag/metrics), [Growth](/tag/growth/) driven by Content & [SEO](/tag/seo/) & [Community](/tag/community/) & an eternal love for [Entrepreneurship](/tag/entrepreneurship/)
 
-My current mission, which needs better articulation, is _to help non-developers do more with computers and the internet in a mechanism they are comfortable in._
+
 
 ## Podcast
 
@@ -23,6 +23,8 @@ My (soon to be restarted) podcast is [Multiple Lenses](https://multiplelenses.co
 
 ## Professional Experience
 
+- Head of Product - Jambox Games
+- Product & Growth Consultant - Various
 - Head of Growth - Arctype
 - Co-founder & CEO – PureMetrics
 - Chief Product Officer – YourStory
@@ -33,7 +35,8 @@ My (soon to be restarted) podcast is [Multiple Lenses](https://multiplelenses.co
 - Product Manager – Vserv
 - Developer Evangelist – Vserv
 - Android Developer – TechJini
-- Other Activities
+
+## Other Activities
 - Founding co-organizer at Blrdroid, a 7000 strong Android Community. [ I am inactive now]
 
 ## Writing Contributions 

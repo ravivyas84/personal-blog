@@ -1,5 +1,5 @@
 ---
-title: Which Game is your startup playing? 
+title: Which Game Is Your Startup Playing? 
 date: 2022-02-18
 myslug: which-game-is-your-startup-playing
 tags: 

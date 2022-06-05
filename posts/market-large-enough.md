@@ -1,5 +1,5 @@
 ---
-title: # Is your market large enough? 
+title: Is your market large enough? 
 date: 2022-06-05
 myslug: is-your-market-large-enough
 tags: 

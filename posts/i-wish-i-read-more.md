@@ -25,10 +25,15 @@ Here are some of there great quotes I have read recently
 
 **From Atlas Shrugged**
 > "It is only in the realm of pure science that truth is an absolute criterion. When we deal with applied science, with technology-we deal with people. And when we deal with people, considerations other than truth enter the question." 
+
 > "Thought is a primitive superstition. Reason is an irrational idea. The childish notion that we are able to think has been mankind's costliest error."
+
 > "What you think you think is an illusion created by your glands, your emotions and, in the last analysis, by the content of your stomach."
+
 > "That gray matter you're so proud of is like a mirror in an amusement park which transmits to you nothing but distorted signals from a reality forever beyond your grasp." "The more certain you feel of your rational conclusions, the more certain you are to be wrong. Your brain being an instrument of distortion, the more active the brain the greater the distortion."
+
 > "The giants of the intellect, whom you admire so much, once taught you that the earth was flat and that the atom was the smallest particle of matter. The entire history of science is a progression of exploded fallacies, not of achievements."
+
 > "The more we know, the more we learn that we know nothing."
 
 **From Dune**

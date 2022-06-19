@@ -51,7 +51,3 @@ I hold a Masters in Computer Science from Florida State University & a Bachelors
 
 - [Twitter](https://twitter.com/ravivyas84)
 - [LinkedIn](https://www.linkedin.com/in/ravivyas/)
-
-## Recent blog posts
-
-

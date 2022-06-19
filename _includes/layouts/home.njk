@@ -1,9 +1,9 @@
 ---
 layout: layouts/base.njk
 ---
-{{ content | safe }}
 
 {# Latest 5 blog posts #}
+<h2>Recent blog posts</h2>
 
 {%- for post in collections.post | reverse -%}
     {% if loop.index0 < 5 %} 
@@ -13,3 +13,5 @@ layout: layouts/base.njk
         </div>
     {% endif %}
 {%- endfor -%}
+
+{{ content | safe }}

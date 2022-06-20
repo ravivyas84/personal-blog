@@ -7,9 +7,6 @@ tags:
   - post
 layout: layouts/posts.njk
 ---
-
-# Web3 is flawed 
-
 *A few quick notes on Web3*
 
 Web 3 goes against the core promise of the internet which tries to be a great equalizer. 

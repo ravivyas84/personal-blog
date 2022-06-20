@@ -1,5 +1,5 @@
 --- 
-Title: Web 3 is Flawed
+title: Web 3 is Flawed
 date: 2022-06-19
 myslug: web-3-is-flawed
 tags: 

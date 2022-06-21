@@ -209,3 +209,20 @@ pre {
     display: block;
     margin-top: 1.5em;
 }
+
+.revue-form-field{
+    margin-bottom: 10px;
+    width: 100%;
+    font-size: 1.5rem;
+}
+
+#revue-embed{
+    background: rgb(233, 232, 232);
+    margin-top:50px;
+    padding: 1px 40px 30px 40px;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}

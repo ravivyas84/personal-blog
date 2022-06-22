@@ -6,4 +6,12 @@ permalink: "{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.da
 <div class="post-content">
   {{ content | safe }}
 </div>
-
+{% if discuss %}
+  <h2>Discuss this post Online</h2>
+  {% if hnlink.length > 0 %}
+      <a target=" blank" href={{ hnlink }}>Hacker News</a></br>
+  {% endif %}
+  {% if twitter.length > 0 %}
+      <a target=" blank" href={{ twitter }}>Twitter Discussions</a></br>
+  {% endif %}
+{% endif %}

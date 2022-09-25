@@ -4,11 +4,11 @@ date: 2022-09-25
 myslug: prds-not-tool-communication-culture
 discuss: true
 tags: 
-  - product-management
+  - Product Management
   - post
 layout: layouts/posts.njk
 ---
-I beleive where people go wrong is treating Product Requirements Docs (PRDs) as a universal tool and using templates sourced from the Internet.
+I believe where people go wrong is treating Product Requirements Docs (PRDs) as a universal tool and using templates sourced from the Internet.
 
 In reality, PRDs are driven more by company culture. When "product mindset" is more prevalent you can make do with bullet points, where it is not, one needs to document each and every minor detail to make sure important things are not missed or misunderstood. 
 

@@ -3,8 +3,8 @@ title: Web 3 is Flawed
 date: 2022-06-19
 myslug: web-3-is-flawed
 discuss: true
-hnlink: https://news.ycombinator.com/item?id=31813893
-twitter: https://twitter.com/search?q=https%3A%2F%2Fravivyas.com%2F2022%2F06%2F19%2Fweb-3-is-flawed%2F&
+hnlink: https://news.ycombinator.com/item?id=32972384
+twitter: https://twitter.com/ravivyas84/status/1574060800712417280
 tags: 
   - Web3
   - post

@@ -2,7 +2,7 @@
 title: PRDs- Not a Tool, but a communication culture
 date: 2022-09-25
 myslug: prds-not-tool-communication-culture
-discuss: true
+discuss: false
 tags: 
   - Product Management
   - post
